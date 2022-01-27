@@ -3,7 +3,7 @@ Labeled Vahicular database to identify safe or unsafe driving. It was made in my
 
 There are two types of labeled data:
 
-Two databases with 13 PIDs, that were recorded every 2.4s.
+Databases with 13 PIDs, that were recorded every 2.4s. Two databases.
 
-Four databases with 5 PIDs, that were recorded every 1s.
+Databases with 5 PIDs, that were recorded every 1s. Four databases.
 
